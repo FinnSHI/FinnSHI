@@ -14,3 +14,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Less is more.
+
+- 🏠 I’m from Suzhou, China.
+- 👨‍💻 I’m currently studying on PolyU in Hong Kong, China.
+- ☕️ I’m currently learning Spring.
+- 👯 I hope to get a joob job this year.
+- 😄 Nice to meet u~
+- ⚡ aba...aba...aba
+
+👉🏻 Visitor Count
+![](https://github-readme-stats.vercel.app/api?username=FinnSHI)
