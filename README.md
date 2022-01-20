@@ -24,6 +24,5 @@ Less is more.
 - 😄 Nice to meet u~
 - ⚡ aba...aba...aba
 
-👉🏻 Visitor Count
 <br>
 ![](https://github-readme-stats.vercel.app/api?username=FinnSHI&theme=dark)
