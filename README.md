@@ -20,7 +20,7 @@ Less is more.
 - 🏠 I’m from Suzhou, China.
 - 👨‍💻 I’m currently studying on PolyU in Hong Kong, China.
 - ☕️ I’m currently learning Spring.
-- 👯 I hope to get a joob job this year.
+- 👯 I hope to get a good job this year.
 - 😄 Nice to meet u~
 - ⚡ aba...aba...aba
 
