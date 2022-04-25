@@ -18,9 +18,9 @@ Here are some ideas to get you started:
 Less is more.
 
 - 🏠 I’m from Suzhou, China.
-- 👨‍💻 I’m currently studying on PolyU in Hong Kong, China.
-- ☕️ I’m currently learning Spring.
-- 👯 I hope to get a good job this year.
+- 👨‍💻 I’m currently a PolyU student in Hong Kong, China.
+- ☕️ I’m currently major in IT.
+- 👯 Qiu Zhao Jia You.
 - 😄 Nice to meet u~
 - ⚡ aba...aba...aba
 
