@@ -20,7 +20,7 @@ Less is more.
 - 🏠 I’m from Suzhou, China.
 - 👨‍💻 I’m currently a PolyU student in Hong Kong, China.
 - ☕️ I’m currently major in IT.
-- 👯 Qiu Zhao Jia You.
+- 👯 NetEase Sirius Java Programmer.
 - 😄 Nice to meet u~
 - ⚡ aba...aba...aba
 
