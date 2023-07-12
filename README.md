@@ -17,10 +17,10 @@ Here are some ideas to get you started:
 
 Less is more.
 
-- 🏠 I’m from Suzhou, China.
-- 👨‍💻 I’m currently a PolyU student in Hong Kong, China.
-- ☕️ I’m currently major in IT.
-- 👯 NetEase Sirius Java Programmer.
+- 👨‍💻 Alibaba, Java Programmer, Hang Zhou, China
+- ☕️ PolyU, IT, Hong Kong, China.
+- 🏠 Suzhou, China.
+- 👯 ...
 - 😄 Nice to meet u~
 - ⚡ aba...aba...aba
 
